@@ -1,2 +1,2 @@
 # agds_report_adelbaudet
-Applied Geodata Science Course repository
+Applied Geodata Science I Course repository
